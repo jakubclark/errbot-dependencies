@@ -9,4 +9,3 @@ def test_if_all_loaded_by_default(testbot):
     assert 'PluginA' in plug_names
     assert 'PluginB' in plug_names
     assert 'PluginC' in plug_names
-    assert 'PluginD' in plug_names
